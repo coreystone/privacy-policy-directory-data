@@ -1,2 +1,4 @@
-# privacy-policy-directory-data
+# Privacy Policy Directory (Data)
+
+Initial commit.
  
