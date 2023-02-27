@@ -1,24 +1,26 @@
 import plotly.express as px
 
-def calculate_webvendor_chart(df):
+def calculate_request_type_chart(df):
     """
-    Creates a pie chart, showing the spread of different web vendors used by all companies
+    Creates a pie chart, showing the spread of different request types used by all companies
     """
 
-    webform_dict = df["Web Form Vendor"].value_counts().to_dict()
+    rq_type_dict = df["Request Type"].value_counts().to_dict()
 
-    fig = px.pie(values=list(webform_dict.values()), names=list(webform_dict.keys()),
+    fig = px.pie(values=list(rq_type_dict.values()), names=list(rq_type_dict.keys()),
                  title='Spread of web form vendor solutions'
                  )
 
     fig.update_traces(textposition='inside', textinfo='percent+label')
-    fig.show()
+    fig.write_html("pie.html")
+    #fig.show()
 
 
 def calculate_framework_chart(df):
     """
      Creates a bar chart, showing the count of companies that mention a privacy framework across all collected privacy policies
     """
+
     framework_count_dict = {
         "CCPA"  : df["CCPA"].value_counts().to_list(), # count of checkmarks
         "CPA"   : df["CPA"].value_counts().to_list(),
@@ -39,4 +41,5 @@ def calculate_framework_chart(df):
         yaxis_title_text='# of companies',  # yaxis label
     )
 
-    fig.show()
+    fig.write_html("bar.html")
+    #fig.show()
