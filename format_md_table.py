@@ -5,8 +5,8 @@ def emojify_links(df) -> pd.DataFrame:
     Converts a cell to a linked emoji corresponding to the column type, ie, "emojifying" it
     """
     emoji_dict = {"Contact": "[:mail:]",
-                  "Web Form": "[:memo:]",
-                  "Privacy Policy": "[:blue_book:]"}
+                  "RequestForm": "[:memo:]",
+                  "PrivacyPolicy": "[:blue_book:]"}
 
     for k in emoji_dict.keys():
         i = 0
@@ -36,12 +36,12 @@ def emojify_frameworks(df) -> pd.DataFrame:
     return df
 
 
-def cleanse_web_vendor(df) -> pd.DataFrame:
+def cleanse_request_type(df) -> pd.DataFrame:
     """
-    Prepares the web vendor column for parsing for stats
+    Prepares the request type column for parsing for stats
     """
     i = 0
-    for r in df["Web Form Vendor"]:
+    for r in df["RequestType"]:
         if type(r) is not str:
             df.at[i, r] = ""
         else:  # cell is False or empty
