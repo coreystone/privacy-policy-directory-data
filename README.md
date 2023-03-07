@@ -1,5 +1,26 @@
 # Privacy Policy Directory
 
+## ⚠️ DISCLAIMER
+This project is built on top of publicly available information that is provided by companies and their privacy policies, support articles, or other sources of information found on their websites. All of the data about these companies is openly available to the public. 
+
+## 🔍 About
+**Privacy Policy Directory** is a aggregation of various types of companies that serves to educate the public about how they can exercise their privacy rights with any of these companies that they might be a user of. This project was heavily inspired by and modeled on [2fa.directory](https://2fa.directory/) whose mission is "to be an independent source of information on which services support MFA/2FA and help consumers demand MFA/2FA on the services that currently don’t." I've always admired the project's utility, how it presents its data, and its merit as a public service. I noticed an equivalent was missing in the privacy space and what you see here is the humble beginning. 
+
+Trying to exercise your privacy rights (such as to access or delete your data) can unfortunately be a pain solely because you have to become a detective to find an email address or obfuscated link hidden away in some corner of a company's website. I've noticed this pattern too often in my experience. This project serves to save data subjects that headache and time sink of finding *where* to submit a request rather than the trivial act of submitting it. When people feel more confident in exercising their privacy rights, people win and privacy prevails.
+
+
+## 📑 How is data organized?
+* :blue_book: **Privacy Policy**: a hyperlink to a company's privacy policy (sometimes called privacy "notice")
+* :e-mail: **Contact**: an email address to contact that can help fulfill a privacy request; usually a company's privacy department, data protection officer ("DPO"), or support team
+* :memo: **Request Form**: a hyperlink to a form or mechanism where you can directly submit a request; these can be internal to a company or be provided by a third-party solution, such as a [OneTrust webform](https://www.onetrust.com/products/privacy-rights-automation/)
+* :card_index: **Request Type**: categorizes the method a company provides to its users to submit a request
+     * Email, internal form, account settings, third-party (OneTrust, Truyo, Securiti, TrustArc, LogicManager, et. al)
+* :balance_scale: **Privacy frameworks** (CCPA, CPA, CTDPA, VCDPA, UCPA): indicates whether a privacy policy explicitly mentions a respective states's privacy law or that citizens of respective state have special rights
+
+
+
+
+
 Initial commit.
  
 # Directory
