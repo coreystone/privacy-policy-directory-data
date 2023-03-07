@@ -1,0 +1,18 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
+Walmart,https://corporate.walmart.com/privacy-security/walmart-privacy-notice,consumerprivacy@wal-mart.com,,Account settings,True,False,False,True,False
+Nike,https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect,privacy@nike.com,https://www.nike.com/help/privacy,Internal form,False,False,False,False,False
+Adidas,https://www.adidas.com/us/help/us-company-information/what-is-the-privacy-policy,privacy.policy@adidas.com ,,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Shop.com,https://www.shop.com/info/privacy-policy,privacy@marketamerica.com,https://www.shop.com/info/privacy/request?withdrawalType=request_my_data&siteType=SHP,Internal form,True,True,False,True,False
+Etsy,https://www.etsy.com/legal/privacy/,dpo@etsy.com,https://help.etsy.com/hc/en-us/articles/360035753053-How-Do-I-Download-My-Etsy-Data-,Account settings,True,False,False,False,False
+Target,https://www.target.com/c/target-privacy-policy/-/N-4sr7p,privacy.request@target.com,https://www.target.com/guest-privacy/privacy-intake-form,Internal form,True,False,False,True,False
+eBay,https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5337590774&customid=&toolid=10001,,https://ocswf.ebay.com/guest/privacy,Internal form,True,False,False,True,False
+OfferUp,https://offerup.com/privacy,privacy@offerup.com,,Email,TRUE,FALSE,FALSE,TRUE,FALSE
+Wish,https://www.wish.com/privacy_policy,privacy@wish.com ,https://submit-irm.trustarc.com/services/validation/367c86cf-7b4a-4904-b63f-11fea5cb16fc,TrustArc,True,False,False,False,False
+Best Buy,https://www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c?id=pcmcat204400050062,PrivacyManager@bestbuy.com,https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=access,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Home Depot,https://www.homedepot.com/privacy/privacy-and-security-statement,privacy@homedepot.com,https://www.homedepot.com/privacy/Exercise-My-Privacy-Rights,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Ikea,https://www.ikea.com/us/en/customer-service/privacy-policy/,infosec.dataprivacy.us@ikea.com,https://privacyportal-eu.onetrust.com/webform/4934e273-6e7a-4e95-8a2f-48f0f901d3cd/2d7d7a43-1658-4b2e-8117-3d8542e3785d,OneTrust,True,False,False,False,False
+StockX,https://stockx.com/privacy,DPO@stockx.com,https://stockx.static.services.wirewheel.io/,Wirewheel.io,TRUE,FALSE,FALSE,FALSE,FALSE
+Costco,https://www.costco.com/privacy-policy.html,US_Privacy@costco.com,https://www.costco.com/RightsRequest,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Vans,https://www.vans.com/en-us/company/privacy,,https://www.vfc.com/privacy-requests,Internal form,True,False,False,False,False
+Temu,https://www.temu.com/privacy-and-cookie-policy.html?title=Privacy%20%26%20Cookie%20Policy&_bg_fs=0&_x_sessn_id=379o9zgn26&refer_page_name=bgp-privacy-policy-and-setting&refer_page_id=10181_1677451066919_spk26uelpv&refer_page_sn=10181,privacy@temu.com,,Email,True,False,False,False,False
+SHEIN,https://us.shein.com/Privacy-Center-a-1045.html,,,Internal form,FALSE,FALSE,FALSE,FALSE,FALSE

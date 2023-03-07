@@ -1,0 +1,13 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
+ExpressVPN,https://www.expressvpn.com/privacy-policy,support@expressvpn.com,,Email,True,False,False,False,False
+Surfshark,https://surfshark.com/privacy,support@surfshark.com,,Email,False,False,False,False,False
+NordVPN,https://my.nordaccount.com/legal/privacy-policy/,privacy@nordaccount.com,,Email,False,False,False,False,False
+ProtonVPN,https://protonvpn.com/privacy-policy,contact@protonvpn.com ,https://protonvpn.com/support-form,Internal form,False,False,False,False,False
+Mullvad,https://mullvad.net/en/help/privacy-policy/,support@mullvad.net,,Email,False,False,False,False,False
+Hide.me,https://hide.me/en/privacy,support@hide.me,,Email,False,False,False,False,False
+TunnelBear,https://www.tunnelbear.com/privacy-policy,,https://www.tunnelbear.com/account/privacy,Account settings,True,False,False,False,False
+HotspotShield,https://www.hotspotshield.com/privacy-policy/,privacy@pango.co ,,Email,True,False,False,False,False
+IVPN,https://www.ivpn.net/privacy/,sar@ivpn.net,,Email,False,False,False,False,False
+Private Internet Access VPN,https://www.privateinternetaccess.com/privacy-policy,privacy@privateinternetaccess.com,,Email,True,False,False,False,False
+CyberGhost VPN,https://www.cyberghostvpn.com/en_US/privacypolicy,support@cyberghost.ro,,Email,False,False,False,False,False
+Mozilla VPN,https://www.mozilla.org/en-US/privacy/subscription-services/,compliance@mozilla.com,https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0,OneTrust,False,False,False,False,False

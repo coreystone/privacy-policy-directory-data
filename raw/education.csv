@@ -1,0 +1,10 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
+Duolingo,https://www.duolingo.com/privacy,privacy@duolingo.com,https://drive-thru.duolingo.com/,Internal form,True,FALSE,FALSE,FALSE,FALSE
+Babbel,https://about.babbel.com/privacy/,privacy@babbel.com,,Email,True,False,False,False,False
+Quizlet,https://quizlet.com/privacy,privacy@quizlet.com,,Email,TRUE,FALSE,FALSE,FALSE,FALSE
+Canvas,https://www.instructure.com/policies/privacy,privacy@instructure.com,,Email,True,False,False,False,False
+Kahoot,https://trust.kahoot.com/privacy-policy/,privacy@kahoot.com,,Email,True,False,False,False,False
+Udacity,https://www.udacity.com/legal/en-us/privacy,privacy@udacity.com,,Account settings,True,False,False,False,False
+edX,https://www.edx.org/edx-privacy-policy,privacy@edx.org,,Account settings,True,False,False,True,False
+Khan Academy,https://www.khanacademy.org/about/privacy-policy,privacy@khanacademy.org,,Account settings,True,False,False,False,False
+Udemy,https://www.udemy.com/terms/privacy/,privacy@udemy.com,https://support.udemy.com/hc/en-us/requests/new?ticket_form_id=360002416854,Internal form,True,False,False,False,False

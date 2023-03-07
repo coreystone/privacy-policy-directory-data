@@ -1,0 +1,10 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
+Verizon,https://www.verizon.com/about/privacy/,privacyoffice@verizon.com,https://www.verizon.com/privacy/your-data,Account settings,TRUE,FALSE,FALSE,TRUE,FALSE
+T-Mobile,https://www.t-mobile.com/privacy-center/privacy-notices/t-mobile-privacy-notice?INTNAV=fNav%3APrivacyNotice,privacy@t-mobile.com,https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523,OneTrust,True,False,False,False,False
+AT&T,https://about.att.com/privacy/full_privacy_policy.html,privacypolicy@att.com,https://www.att.com/acctmgmt/passthrough/PRIVACYCHOICES?origination_point=PrivacyCenter,Account settings,True,True,True,True,True
+Mint Mobile,https://www.mintmobile.com/privacy-policy/,,https://kaena1.atlassian.net/servicedesk/customer/portal/25/group/49/create/239,Atlassian,TRUE,FALSE,FALSE,FALSE,FALSE
+Xfinity,https://www.xfinity.com/privacy/policy,Comcast_Privacy@comcast.com,https://www.xfinity.com/privacy/requests,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Boost Mobile,https://www.boostmobile.com/about/legal/privacy-policy.html?INTNAV=BotNav:Legal:Privacy,,https://www.boostmobile.com/ccpaportal.html,Internal form,True,False,False,False,False
+Spectrum,https://www.spectrum.com/policies/privacy-policy,,https://privacy.spectrum.net/,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Visible Mobile,https://www.visible.com/legal/privacy/,privacy@visible.com,https://www.visible.com/legal/data-and-privacy-portal,Account settings,True,False,False,True,False
+Consumer Cellular,https://www.consumercellular.com/legal/privacyandsecurity,,https://privacyportal.onetrust.com/webform/548fbbb6-4dd0-48c8-b728-05ab7819bed2/1280eff9-8067-4338-a276-6545911f9f72,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE

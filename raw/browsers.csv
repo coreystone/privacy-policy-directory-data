@@ -1,0 +1,8 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
+Firefox,https://www.mozilla.org/en-US/privacy/firefox/,c3ab8514873549d5b3785ebc7fb83c80@o1069899.ingest.sentry.io,,,False,False,False,False,False
+Chrome,https://www.google.com/chrome/privacy/,,,,False,False,False,False,False
+Brave,https://brave.com/privacy/browser/,"{'adsales@trybrave.com', 'secure-browser@2x.png', 'press@brave.com', 'fastest-browser@3x.png', 'fastest-browser@2x.webp', 'fastest-browser@3x.webp', 'secure-browser@1x.webp', 'secure-browser@3x.webp', 'fastest-browser@1x.webp', 'secure-browser@1x.png', 'privacy@brave.com', 'secure-browser@2x.webp', 'private-browser@1x.png', 'bizdev@brave.com', 'brave@gdprnomrep.eu', 'secure-browser@3x.png', 'private-browser@2x.webp', 'ales@brave.com', 'private-browser@3x.png', 'private-browser@3x.webp', 'fastest-browser@2x.png', 'private-browser@1x.webp', 'private-browser@2x.png', 'fastest-browser@1x.png'}",,,False,False,False,False,False
+Opera,https://legal.opera.com/privacy/,,,,False,False,False,False,False
+Edge,https://privacy.microsoft.com/en-us/privacystatement,,,,True,False,False,False,False
+DuckDuckGo,https://duckduckgo.com/privacy,,,,False,False,False,False,False
+Vivaldi,https://vivaldi.com/privacy/browser/,,,,False,False,False,False,False

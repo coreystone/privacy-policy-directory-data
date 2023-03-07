@@ -1,0 +1,28 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA,
+Netflix,https://help.netflix.com/en/legal/privacy,privacy@netflix.com,https://help.netflix.com/en/node/100624,Account settings,True,True,True,True,True,Done
+HBO Max,https://www.hbomax.com/privacy/usrights/en-us,privacy@hbomax.com,https://www.warnermediaprivacy.com/delete-data/request/,Internal form,True,False,False,True,False,Done
+Paramount Plus,https://privacy.paramount.com/en/policy,,https://privacyportal.onetrust.com/webform/869be997-c257-4071-b658-a5427317b5c6/bda9b2b4-9be6-4f30-9d55-94b308f9af4d,OneTrust,True,True,True,True,True,Done
+Hulu,https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/,usprivacy@twdc.com,https://privacyportalde-cdn.onetrust.com/dsarwebform/64f077b5-2f93-429f-a005-c0206ec0738e/310e544c-4c70-4d0f-90d5-d4dc8b3f7cba.html,OneTrust,True,False,False,True,False,Done
+Peacock,https://www.nbcuniversal.com/privacy?brandA=Peacock&intake=Peacock,privacy@nbcuni.com ,https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32,OneTrust,TRUE,TRUE,TRUE,TRUE,TRUE,Done
+Ticketmasker,https://help.ticketmaster.com/s/article/Ticketmaster-Privacy-Policy?language=en_US,privacy@livenation.com,https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/a912475c-660e-40a7-b320-844ea439062a,OneTrust,True,False,False,False,False,Done
+Roku,https://docs.roku.com/published/userprivacypolicy/en/us,privacy@roku.com,https://privacy.roku.com/contact,Internal form,True,False,False,True,False,Done
+Tubi,https://tubitv.com/static/privacy,,https://privacyportal-cdn.onetrust.com/dsarwebform/8d9cb670-94ff-4659-969d-6b15fd288fcc/6a65e472-7808-4dab-b885-0020d4ed9469.html,OneTrust,True,False,False,True,False,Done
+Spotify,https://www.spotify.com/us/legal/privacy-policy/,privacy@spotify.com,,Account settings,True,False,False,False,False,Done
+Shazam,https://www.apple.com/legal/privacy/en-ww/,,https://privacy.apple.com/,Account settings,,,,,,
+Pandora,https://www.pandora.com/privacy,privacy@pandora.com,https://privacyportal.onetrust.com/webform/613d75ce-3c5b-4623-bcef-a0d3694b4214/072d9c72-9c02-45e8-b489-03bb23faf3c6,OneTrust,True,False,False,True,False,Done
+Soundcloud,https://soundcloud.com/pages/privacy,dataprotection@soundcloud.com ,https://help.soundcloud.com/hc/en-us/requests/new?ticket_form_id=477167,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,Done
+Twitch.tv,https://www.twitch.tv/p/en/legal/state-specific-privacy-disclosures/,privacy@twitch.tv ,https://help.twitch.tv/s/contactsupport,Internal form,True,False,False,True,False,Done
+Vizio,https://www.vizio.com/en/terms/privacy-policy,privacy@vizio.com ,https://privacyportal-cdn.onetrust.com/dsarwebform/41aebd10-58ee-4c98-9dd5-aa66c9be664a/0099df9c-c0aa-4bf7-bd5f-7f4ff46768f6.html,OneTrust,True,False,False,True,False,Done
+Samsung,https://www.samsung.com/us/account/privacy-policy/,NAPrivacy@sea.samsung.com,https://www.samsung.com/us/privacy/ccpa/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,Done
+LiveNation,https://help.livenation.com/s/article/Live-Nation-Entertainment-Privacy-Policy-Your-Privacy-Rights?language=en_US&tm_link=tm_i_privacy&tm_link=tm_i_privacy,privacy@livenation.com,https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/b3c0feda-599b-43d9-ae70-2e33b14b3b6b,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE,Done
+TCL,https://www.tcl.com/us/en/terms-privacy,privacy.na@tcl.com,https://privacyportal-de.onetrust.com/webform/51a2e8fb-ad5e-4969-b97c-5405297554a1/7d87c8c8-ff83-4ec3-b300-b5f7cc0c4c64,OneTrust,True,False,False,False,False,Done
+LG,https://privacy.us.lg.com/,usprivacy@lge.com ,https://privacy.us.lg.com/policies?modal=select-subject,Internal form,True,True,True,True,True,Done
+Discovery+,https://corporate.discovery.com/privacy-policy/,privacy_policy@discovery.com,https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/5b504afe-dd1e-47f6-9af6-56144531eced,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE,Done
+Starz,https://www.starz.com/us/en/privacy,privacy@starz.com,https://submit-irm.trustarc.com/services/validation/ae459e19-429f-4e7e-bdd5-aae67f528d57,TrustArc,TRUE,TRUE,TRUE,TRUE,TRUE,Done
+Vudu/Fandango/Flixter/RottenTomatoes,https://www.fandango.com/policies/privacy-policy,privacy@fandango.com,https://privacyportal-cdn.onetrust.com/dsarwebform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/7e1e94a5-ce41-429f-8613-2b0b30850f6e.html,OneTrust,TRUE,TRUE,TRUE,TRUE,TRUE,Done
+Vimeo,https://vimeo.com/privacy,privacy@vimeo.com,https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,Done
+Cinemark,https://www.cinemark.com/privacy-policy,,https://www.cinemark.com/my-personal-information,Internal form,FALSE,FALSE,FALSE,FALSE,FALSE,
+AMC,https://www.amctheatres.com/privacy-policy,privacymanager@amctheatres.com,https://www.amctheatres.com/privacy,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE,Done
+Regal Cinema,https://www.regmovies.com/static/en/us/privacy,privacy@regalcinemas.com,,,TRUE,FALSE,FALSE,FALSE,FALSE,Done
+Crunchyroll,https://www.crunchyroll.com/en/privacy/index.html,,https://privacyportal-cdn.onetrust.com/dsarwebform/d19e506f-1a64-463d-94e4-914dd635817d/fc46fc0c-407c-4735-9a43-14dfa283d17c.html,OneTrust,TRUE,FALSE,FALSE,TRUE,FALSE,Done
+IMDB,https://www.imdb.com/privacy?ref_=ft_pvc,,https://help.imdb.com/article/imdb/general-information/how-can-i-access-or-delete-personal-information-imdb-stores-about-me/GDASD2LZMU8HNH4H?ref_=helpms_helpart_inline#,Account settings,TRUE,FALSE,FALSE,TRUE,FALSE,Done

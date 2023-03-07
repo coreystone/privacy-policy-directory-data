@@ -1,0 +1,21 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
+Cash App,https://cash.app/legal/us/en-us/privacy,,https://cash.app/support,Account settings,True,False,False,False,False
+Zelle,https://www.zellepay.com/legal/website-privacy-notice,privacyoffice@earlywarning.com,,Email,True,False,False,False,False
+Credit Karma,https://www.intuit.com/privacy/statement/,requests@creditkarma.com,https://support.creditkarma.com/s/newcase,Internal form,True,True,True,True,False
+Chase,https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice,Privacy.Info@JPMChase.com ,,Email,True,False,False,False,False
+Chime Bank,https://www.chime.com/policies/chime/privacy-policy/,support@chime.com,https://privacyportal.onetrust.com/webform/5937394c-877a-4878-9ea1-329cdfe21a59/d98ad59c-8cb5-4ff2-82db-543e8d05103b,OneTrust,True,False,False,True,False
+Bank of America,https://www.bankofamerica.com/security-center/privacy-overview/,,https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1,Internal form,True,False,False,False,False
+American Express,https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/#privacy-statement,,https://www.americanexpress.com/us/privacy-center/?inav=footer_privacy_statement,Internal form,True,False,False,False,False
+Experian,https://www.experian.com/privacy/,,https://privacy.a.apps.experian.com/ccpa/,Internal form,True,False,False,False,False
+Citi Mobile,https://online.citi.com/US/JRS/portal/template.do?ID=Privacy,,,Phone,True,False,False,False,False
+Robinhood,https://robinhood.com/l/privacy,privacy@robinhood.com,,Account settings,True,False,False,False,False
+Wells Fargo,https://www.wellsfargo.com/privacy-security/,privacycenter@wellsfargo.com,https://privacycenter.wellsfargo.com/pcc/portal/enter,Internal form,True,False,False,False,False
+Progressive Insurance,https://www.progressive.com/privacy/,,https://privacyportal.onetrust.com/webform/98369889-3df1-4c62-87e3-ec55d5e7571d/8cd82167-9c5d-439d-88d4-2e88b41036d3,OneTrust,True,True,True,True,True
+Schwab,https://www.schwab.com/legal/privacy,,,Phone,True,False,False,False,False
+Webull,https://www.webull.com/protocol/webull_financial_privacy_policy,privacy-us@webull.com,,Email,True,False,False,False,False
+Venmo,https://venmo.com/legal/start/,privacy@venmo.com,https://help.venmo.com/hc/en-us/requests/new?ticket_form_id=624807,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Privacy.com,https://privacy.com/privacy-policy,hello@privacy.com ,,Email,TRUE,FALSE,FALSE,FALSE,FALSE
+Paysafecard,https://www.paysafecard.com/en/privacy-notice/,,https://www.paysafe.com/en/personal-data-requests/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE
+Clover,https://www.clover.com/privacy-policy,dpo@fiserv.com,https://privacyportal.onetrust.com/webform/ea43d9bb-b0c9-4a9e-abdc-ef43b9b27820/7b1d1e3d-fa16-470a-a0f9-c9dc74868f6d,OneTrust,TRUE,FALSE,FALSE,TRUE,FALSE
+Plaid,https://plaid.com/legal/,privacy@plaid.com,https://plaid.com/legal/data-protection-request-form/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE
+Stripe,https://stripe.com/privacy,privacy@stripe.com,https://support.stripe.com/contact/email?question=other&topic=other&subject=Privacy+Request,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE

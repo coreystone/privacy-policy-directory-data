@@ -1,0 +1,11 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
+Shell,https://www.shell.us/privacy/b2c-notice.html,shellcustomercare@shell.com,,Email,True,False,False,False,False
+Chevron,https://www.chevron.com/privacy,,https://privacyportal-cdn.onetrust.com/dsarwebform/c6903940-f079-4218-9ad7-47c7ff822500/12ee0246-47a0-4a19-9fe8-3a884c925d0d.html,OneTrust,True,False,False,False,False
+Exxon Mobil,https://corporate.exxonmobil.com/Global-legal-pages/privacy-policy,data.privacy.office@exxonmobil.com,https://privacyportal.onetrust.com/webform/556d380f-9307-4f7c-8b90-5eaa69099b42/268a33c4-8f55-41f5-bc5d-356ec7c3444f,OneTrust,True,False,False,False,False
+7-Eleven,https://www.7-eleven.com/consumer-privacy-notice,privacypolicy@7-11.com,https://7dataassure-forms.7-eleven.com/email,Internal form,True,False,False,False,False
+Toyota,https://www.toyota.com/support/privacy-rights/,,https://privacy.toyota.com/,OneTrust,True,False,False,False,False
+Honda,https://www.honda.com/privacy/privacy-notice,,https://crrs.secure.force.com/service/CCPA_Request_W2C,SalesForce,True,False,False,True,False
+Ford,https://www.ford.com/help/privacy/#USprivacypolicy,calprivy@ford.com,https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d,OneTrust,True,False,False,True,False
+Kia,https://www.kia.com/us/en/privacy,,https://ksupport.kiausa.com/ConsumerAffairs/PrivacyManagement,Internal form,True,True,True,True,True
+Nissan,https://www.nissanusa.com/privacy.html,privacy@nissan-usa.com,https://privacyportal.onetrust.com/webform/00db3d80-61f2-406b-9665-493b342a269d/b28edb8c-8f95-418a-8697-ad870da401ae,OneTrust,True,True,True,True,True
+BMW,https://my.bmwusa.com/privacypolicy,bmwprivacy@bmwusa.com,,Email,True,True,True,True,True
