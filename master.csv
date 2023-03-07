@@ -1,0 +1,134 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
+Cash App,https://cash.app/legal/us/en-us/privacy,,https://cash.app/support,Account settings,True,False,False,False,False
+Zelle,https://www.zellepay.com/legal/website-privacy-notice,privacyoffice@earlywarning.com,,Email,True,False,False,False,False
+Credit Karma,https://www.intuit.com/privacy/statement/,requests@creditkarma.com,https://support.creditkarma.com/s/newcase,Internal form,True,True,True,True,False
+Chase,https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice,Privacy.Info@JPMChase.com ,,Email,True,False,False,False,False
+Chime Bank,https://www.chime.com/policies/chime/privacy-policy/,support@chime.com,https://privacyportal.onetrust.com/webform/5937394c-877a-4878-9ea1-329cdfe21a59/d98ad59c-8cb5-4ff2-82db-543e8d05103b,OneTrust,True,False,False,True,False
+Bank of America,https://www.bankofamerica.com/security-center/privacy-overview/,,https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1,Internal form,True,False,False,False,False
+American Express,https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/#privacy-statement,,https://www.americanexpress.com/us/privacy-center/?inav=footer_privacy_statement,Internal form,True,False,False,False,False
+Experian,https://www.experian.com/privacy/,,https://privacy.a.apps.experian.com/ccpa/,Internal form,True,False,False,False,False
+Citi Mobile,https://online.citi.com/US/JRS/portal/template.do?ID=Privacy,,,Phone,True,False,False,False,False
+Robinhood,https://robinhood.com/l/privacy,privacy@robinhood.com,,Account settings,True,False,False,False,False
+Wells Fargo,https://www.wellsfargo.com/privacy-security/,privacycenter@wellsfargo.com,https://privacycenter.wellsfargo.com/pcc/portal/enter,Internal form,True,False,False,False,False
+Progressive Insurance,https://www.progressive.com/privacy/,,https://privacyportal.onetrust.com/webform/98369889-3df1-4c62-87e3-ec55d5e7571d/8cd82167-9c5d-439d-88d4-2e88b41036d3,OneTrust,True,True,True,True,True
+Schwab,https://www.schwab.com/legal/privacy,,,Phone,True,False,False,False,False
+Webull,https://www.webull.com/protocol/webull_financial_privacy_policy,privacy-us@webull.com,,Email,True,False,False,False,False
+Venmo,https://venmo.com/legal/start/,privacy@venmo.com,https://help.venmo.com/hc/en-us/requests/new?ticket_form_id=624807,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Shell,https://www.shell.us/privacy/b2c-notice.html,shellcustomercare@shell.com,,Email,True,False,False,False,False
+Chevron,https://www.chevron.com/privacy,,https://privacyportal-cdn.onetrust.com/dsarwebform/c6903940-f079-4218-9ad7-47c7ff822500/12ee0246-47a0-4a19-9fe8-3a884c925d0d.html,OneTrust,True,False,False,False,False
+Exxon Mobil,https://corporate.exxonmobil.com/Global-legal-pages/privacy-policy,data.privacy.office@exxonmobil.com,https://privacyportal.onetrust.com/webform/556d380f-9307-4f7c-8b90-5eaa69099b42/268a33c4-8f55-41f5-bc5d-356ec7c3444f,OneTrust,True,False,False,False,False
+7-Eleven,https://www.7-eleven.com/consumer-privacy-notice,privacypolicy@7-11.com,https://7dataassure-forms.7-eleven.com/email,Internal form,True,False,False,False,False
+Toyota,https://www.toyota.com/support/privacy-rights/,,https://privacy.toyota.com/,OneTrust,True,False,False,False,False
+Honda,https://www.honda.com/privacy/privacy-notice,,https://crrs.secure.force.com/service/CCPA_Request_W2C,SalesForce,True,False,False,True,False
+Ford,https://www.ford.com/help/privacy/#USprivacypolicy,calprivy@ford.com,https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d,OneTrust,True,False,False,True,False
+Kia,https://www.kia.com/us/en/privacy,,https://ksupport.kiausa.com/ConsumerAffairs/PrivacyManagement,Internal form,True,True,True,True,True
+Nissan,https://www.nissanusa.com/privacy.html,privacy@nissan-usa.com,https://privacyportal.onetrust.com/webform/00db3d80-61f2-406b-9665-493b342a269d/b28edb8c-8f95-418a-8697-ad870da401ae,OneTrust,True,True,True,True,True
+BMW,https://my.bmwusa.com/privacypolicy,bmwprivacy@bmwusa.com,,Email,True,True,True,True,True
+Duolingo,https://www.duolingo.com/privacy,privacy@duolingo.com,https://drive-thru.duolingo.com/,Internal form,True,FALSE,FALSE,FALSE,FALSE
+Babbel,https://about.babbel.com/privacy/,privacy@babbel.com,,Email,True,False,False,False,False
+Quizlet,https://quizlet.com/privacy,privacy@quizlet.com,,Email,TRUE,FALSE,FALSE,FALSE,FALSE
+Canvas,https://www.instructure.com/policies/privacy,privacy@instructure.com,,Email,True,False,False,False,False
+Kahoot,https://trust.kahoot.com/privacy-policy/,privacy@kahoot.com,,Email,True,False,False,False,False
+Udacity,https://www.udacity.com/legal/en-us/privacy,privacy@udacity.com,,Account settings,True,False,False,False,False
+edX,https://www.edx.org/edx-privacy-policy,privacy@edx.org,,Account settings,True,False,False,True,False
+Khan Academy,https://www.khanacademy.org/about/privacy-policy,privacy@khanacademy.org,,Account settings,True,False,False,False,False
+Udemy,https://www.udemy.com/terms/privacy/,privacy@udemy.com,https://support.udemy.com/hc/en-us/requests/new?ticket_form_id=360002416854,Internal form,True,False,False,False,False
+Netflix,https://help.netflix.com/en/legal/privacy,privacy@netflix.com,https://help.netflix.com/en/node/100624,Account settings,True,True,True,True,True
+HBO Max,https://www.hbomax.com/privacy/usrights/en-us,privacy@hbomax.com,https://www.warnermediaprivacy.com/delete-data/request/,Internal form,True,False,False,True,False
+Paramount Plus,https://privacy.paramount.com/en/policy,,https://privacyportal.onetrust.com/webform/869be997-c257-4071-b658-a5427317b5c6/bda9b2b4-9be6-4f30-9d55-94b308f9af4d,OneTrust,True,True,True,True,True
+Hulu,https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/,usprivacy@twdc.com,https://privacyportalde-cdn.onetrust.com/dsarwebform/64f077b5-2f93-429f-a005-c0206ec0738e/310e544c-4c70-4d0f-90d5-d4dc8b3f7cba.html,OneTrust,True,False,False,True,False
+Peacock,https://www.nbcuniversal.com/privacy?brandA=Peacock&intake=Peacock,privacy@nbcuni.com ,https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32,OneTrust,TRUE,TRUE,TRUE,TRUE,TRUE
+Ticketmasker,https://help.ticketmaster.com/s/article/Ticketmaster-Privacy-Policy?language=en_US,privacy@livenation.com,https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/a912475c-660e-40a7-b320-844ea439062a,OneTrust,True,False,False,False,False
+Roku,https://docs.roku.com/published/userprivacypolicy/en/us,privacy@roku.com,https://privacy.roku.com/contact,Internal form,True,False,False,True,False
+Tubi,https://tubitv.com/static/privacy,,https://privacyportal-cdn.onetrust.com/dsarwebform/8d9cb670-94ff-4659-969d-6b15fd288fcc/6a65e472-7808-4dab-b885-0020d4ed9469.html,OneTrust,True,False,False,True,False
+Spotify,https://www.spotify.com/us/legal/privacy-policy/,privacy@spotify.com,,Account settings,True,False,False,False,False
+Shazam,https://www.apple.com/legal/privacy/en-ww/,,https://privacy.apple.com/,Account settings,TRUE,FALSE,FALSE,FALSE,FALSE
+Pandora,https://www.pandora.com/privacy,privacy@pandora.com,https://privacyportal.onetrust.com/webform/613d75ce-3c5b-4623-bcef-a0d3694b4214/072d9c72-9c02-45e8-b489-03bb23faf3c6,OneTrust,True,False,False,True,False
+Soundcloud,https://soundcloud.com/pages/privacy,dataprotection@soundcloud.com ,https://help.soundcloud.com/hc/en-us/requests/new?ticket_form_id=477167,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE
+Twitch.tv,https://www.twitch.tv/p/en/legal/state-specific-privacy-disclosures/,privacy@twitch.tv ,https://help.twitch.tv/s/contactsupport,Internal form,True,False,False,True,False
+Vizio,https://www.vizio.com/en/terms/privacy-policy,privacy@vizio.com ,https://privacyportal-cdn.onetrust.com/dsarwebform/41aebd10-58ee-4c98-9dd5-aa66c9be664a/0099df9c-c0aa-4bf7-bd5f-7f4ff46768f6.html,OneTrust,True,False,False,True,False
+Samsung,https://www.samsung.com/us/account/privacy-policy/,NAPrivacy@sea.samsung.com,https://www.samsung.com/us/privacy/ccpa/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE
+LiveNation,https://help.livenation.com/s/article/Live-Nation-Entertainment-Privacy-Policy-Your-Privacy-Rights?language=en_US&tm_link=tm_i_privacy&tm_link=tm_i_privacy,privacy@livenation.com,https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/b3c0feda-599b-43d9-ae70-2e33b14b3b6b,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE
+TCL,https://www.tcl.com/us/en/terms-privacy,privacy.na@tcl.com,https://privacyportal-de.onetrust.com/webform/51a2e8fb-ad5e-4969-b97c-5405297554a1/7d87c8c8-ff83-4ec3-b300-b5f7cc0c4c64,OneTrust,True,False,False,False,False
+LG,https://privacy.us.lg.com/,usprivacy@lge.com ,https://privacy.us.lg.com/policies?modal=select-subject,Internal form,True,True,True,True,True
+Discovery+,https://corporate.discovery.com/privacy-policy/,privacy_policy@discovery.com,https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/5b504afe-dd1e-47f6-9af6-56144531eced,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE
+Starz,https://www.starz.com/us/en/privacy,privacy@starz.com,https://submit-irm.trustarc.com/services/validation/ae459e19-429f-4e7e-bdd5-aae67f528d57,TrustArc,TRUE,TRUE,TRUE,TRUE,TRUE
+Vudu/Fandango/Flixter/RottenTomatoes,https://www.fandango.com/policies/privacy-policy,privacy@fandango.com,https://privacyportal-cdn.onetrust.com/dsarwebform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/7e1e94a5-ce41-429f-8613-2b0b30850f6e.html,OneTrust,TRUE,TRUE,TRUE,TRUE,TRUE
+Vimeo,https://vimeo.com/privacy,privacy@vimeo.com,https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE
+Cinemark,https://www.cinemark.com/privacy-policy,,https://www.cinemark.com/my-personal-information,Internal form,FALSE,FALSE,FALSE,FALSE,FALSE
+AMC,https://www.amctheatres.com/privacy-policy,privacymanager@amctheatres.com,https://www.amctheatres.com/privacy,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Regal Cinema,https://www.regmovies.com/static/en/us/privacy,privacy@regalcinemas.com,,,TRUE,FALSE,FALSE,FALSE,FALSE
+Crunchyroll,https://www.crunchyroll.com/en/privacy/index.html,,https://privacyportal-cdn.onetrust.com/dsarwebform/d19e506f-1a64-463d-94e4-914dd635817d/fc46fc0c-407c-4735-9a43-14dfa283d17c.html,OneTrust,TRUE,FALSE,FALSE,TRUE,FALSE
+IMDB,https://www.imdb.com/privacy?ref_=ft_pvc,,https://help.imdb.com/article/imdb/general-information/how-can-i-access-or-delete-personal-information-imdb-stores-about-me/GDASD2LZMU8HNH4H?ref_=helpms_helpart_inline#,Account settings,TRUE,FALSE,FALSE,TRUE,FALSE
+Verizon,https://www.verizon.com/about/privacy/,privacyoffice@verizon.com,https://www.verizon.com/privacy/your-data,Account settings,TRUE,FALSE,FALSE,TRUE,FALSE
+T-Mobile,https://www.t-mobile.com/privacy-center/privacy-notices/t-mobile-privacy-notice?INTNAV=fNav%3APrivacyNotice,privacy@t-mobile.com,https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523,OneTrust,True,False,False,False,False
+AT&T,https://about.att.com/privacy/full_privacy_policy.html,privacypolicy@att.com,https://www.att.com/acctmgmt/passthrough/PRIVACYCHOICES?origination_point=PrivacyCenter,Account settings,True,True,True,True,True
+Mint Mobile,https://www.mintmobile.com/privacy-policy/,,https://kaena1.atlassian.net/servicedesk/customer/portal/25/group/49/create/239,Atlassian,TRUE,FALSE,FALSE,FALSE,FALSE
+Xfinity,https://www.xfinity.com/privacy/policy,Comcast_Privacy@comcast.com,https://www.xfinity.com/privacy/requests,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Boost Mobile,https://www.boostmobile.com/about/legal/privacy-policy.html?INTNAV=BotNav:Legal:Privacy,,https://www.boostmobile.com/ccpaportal.html,Internal form,True,False,False,False,False
+Spectrum,https://www.spectrum.com/policies/privacy-policy,,https://privacy.spectrum.net/,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Visible Mobile,https://www.visible.com/legal/privacy/,privacy@visible.com,https://www.visible.com/legal/data-and-privacy-portal,Account settings,True,False,False,True,False
+Consumer Cellular,https://www.consumercellular.com/legal/privacyandsecurity,,https://privacyportal.onetrust.com/webform/548fbbb6-4dd0-48c8-b728-05ab7819bed2/1280eff9-8067-4338-a276-6545911f9f72,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE
+Walmart,https://corporate.walmart.com/privacy-security/walmart-privacy-notice,consumerprivacy@wal-mart.com,,Account settings,True,False,False,True,False
+Nike,https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect,privacy@nike.com,https://www.nike.com/help/privacy,Internal form,False,False,False,False,False
+Adidas,https://www.adidas.com/us/help/us-company-information/what-is-the-privacy-policy,privacy.policy@adidas.com ,,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Shop.com,https://www.shop.com/info/privacy-policy,privacy@marketamerica.com,https://www.shop.com/info/privacy/request?withdrawalType=request_my_data&siteType=SHP,Internal form,True,True,False,True,False
+Etsy,https://www.etsy.com/legal/privacy/,dpo@etsy.com,https://help.etsy.com/hc/en-us/articles/360035753053-How-Do-I-Download-My-Etsy-Data-,Account settings,True,False,False,False,False
+Target,https://www.target.com/c/target-privacy-policy/-/N-4sr7p,privacy.request@target.com,https://www.target.com/guest-privacy/privacy-intake-form,Internal form,True,False,False,True,False
+eBay,https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5337590774&customid=&toolid=10001,,https://ocswf.ebay.com/guest/privacy,Internal form,True,False,False,True,False
+OfferUp,https://offerup.com/privacy,privacy@offerup.com,,Email,TRUE,FALSE,FALSE,TRUE,FALSE
+Wish,https://www.wish.com/privacy_policy,privacy@wish.com ,https://submit-irm.trustarc.com/services/validation/367c86cf-7b4a-4904-b63f-11fea5cb16fc,TrustArc,True,False,False,False,False
+Best Buy,https://www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c?id=pcmcat204400050062,PrivacyManager@bestbuy.com,https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=access,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Home Depot,https://www.homedepot.com/privacy/privacy-and-security-statement,privacy@homedepot.com,https://www.homedepot.com/privacy/Exercise-My-Privacy-Rights,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Ikea,https://www.ikea.com/us/en/customer-service/privacy-policy/,infosec.dataprivacy.us@ikea.com,https://privacyportal-eu.onetrust.com/webform/4934e273-6e7a-4e95-8a2f-48f0f901d3cd/2d7d7a43-1658-4b2e-8117-3d8542e3785d,OneTrust,True,False,False,False,False
+StockX,https://stockx.com/privacy,DPO@stockx.com,https://stockx.static.services.wirewheel.io/,Wirewheel.io,TRUE,FALSE,FALSE,FALSE,FALSE
+Costco,https://www.costco.com/privacy-policy.html,US_Privacy@costco.com,https://www.costco.com/RightsRequest,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Vans,https://www.vans.com/en-us/company/privacy,,https://www.vfc.com/privacy-requests,Internal form,True,False,False,False,False
+Temu,https://www.temu.com/privacy-and-cookie-policy.html?title=Privacy%20%26%20Cookie%20Policy&_bg_fs=0&_x_sessn_id=379o9zgn26&refer_page_name=bgp-privacy-policy-and-setting&refer_page_id=10181_1677451066919_spk26uelpv&refer_page_sn=10181,privacy@temu.com,,Email,True,False,False,False,False
+SHEIN,https://us.shein.com/Privacy-Center-a-1045.html,,,Internal form,FALSE,FALSE,FALSE,FALSE,FALSE
+Chipotle,https://www.chipotle.com/about-us/privacy-policy,privacy@chipotle.com,https://www.chipotle.com/datarequest,Internal form,True,False,False,True,False
+Wendys,https://www.wendys.com/privacy-policy,privacy@wendys.com,https://www.wendys.com/privacy-policy/privacy-requests,OneTrust,True,False,False,True,False
+Arbys,https://www.arbys.com/privacy-policy,privacy@inspirebrands.com,https://arbys.truyo.com/consumer/make_request,Truyo,True,False,False,True,False
+Del Taco,https://www.deltaco.com/legal,,,,True,False,False,False,False
+McDonalds,https://www.mcdonalds.com/us/en-us/privacy.html,contact.privacy@us.mcd.com|,https://privacyportal.onetrust.com/webform/beafaae6-1861-4a9a-ab0e-c20b9b2adc2a/32fc189f-428f-42f9-84ac-1b217926ed6c,OneTrust,TRUE,True,True,True,True
+CAVA,https://www.cava.com/privacy,privacy@cava.com,,Email,True,False,False,True,False
+Burger King,https://www.bk.com/privacy-policy,privacy@rbi.com ,https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html,OneTrust,True,True,True,True,True
+Chick-Fil-Ah,https://www.chick-fil-a.com/legal,privacy@chick-fil-a.com,https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55,OneTrust,TRUE,True,True,True,True
+In-n-Out,https://www.in-n-out.com/privacy-policy,privacy@innout.com,,Email,True,False,False,False,False
+KFC,https://www.kfc.com/privacy-policy,privacy@kfc.com ,https://privacyportal.onetrust.com/webform/94ba57b5-e5fc-4459-a91d-28bc381b6185/df178a85-1bd4-4220-8db6-913a08d072e4,OneTrust,TRUE,TRUE,TRUE,TRUE,TRUE
+Starbucks,https://www.starbucks.com/terms/privacy-policy/,privacy@starbucks.com,https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html,OneTrust,TRUE,False,False,False,False
+Popeyes,https://www.popeyes.com/privacy-policy,privacy@rbi.com ,https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html,OneTrust,True,True,True,True,True
+Yogurtland,https://www.yogurt-land.com/privacy,info@yogurt-land.com ,,Email,TRUE,FALSE,FALSE,FALSE,FALSE
+Subway,https://www.subway.com/en-DM/Legal/PrivacyStatement-FWH,privacy@subway.com,https://privacyportal-cdn.onetrust.com/dsarwebform/7d120555-065a-4ef8-b127-16aa186c5df2/d863adc4-053e-4c18-9a90-8bf4ff7da6c4.html,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE
+Pizza Hut,https://www.pizzahut.com/index.php#/privacy-policy,privacypolicy@yum.com,https://privacyportal.onetrust.com/webform/94ba57b5-e5fc-4459-a91d-28bc381b6185/10629b8e-4a97-4eee-baef-555b78b65407,OneTrust,TRUE,TRUE,TRUE,TRUE,TRUE
+Dominos,https://www.dominos.com/en/#!/content/privacy/,privacy@dominos.com ,https://www.dominos.com/en/pages/customer/#!/ccpa/,Internal form,True,False,False,True,False
+Panera,https://www.panerabread.com/en-us/legal/your-privacy.html,privacy@panerabread.com,https://privacyportal-cdn.onetrust.com/dsarwebform/fc20682e-f5f6-4af8-b143-730cb76bc480/cab878cc-e9b3-42ac-8198-8d2ca70fb3dd.html,OneTrust,True,True,True,True,True
+Little Caesars,https://littlecaesars.com/en-us/legal/privacy-policy/,privacycnd@icecorp.com,https://privacyportal.onetrust.com/webform/71972d41-e6c5-47e0-abcb-0fae85906805/426e2e3f-ff1b-4671-a18c-8b42f290ab37,OneTrust,TRUE,FALSE,FALSE,TRUE,FALSE
+Panda Express,https://www.pandaexpress.com/legal#privacy-policy,guestcare@pandarg.com ,https://privacyportal.onetrust.com/webform/fbcad385-5bbd-48ba-97d4-e5bcabcd10b9/90980e4c-bd28-4f50-82b3-d7c81a62c4ae,OneTrust,True,False,False,False,False
+Dairy Queen,https://www.dairyqueen.com/en-us/privacy-statement/,privacy@idq.com ,https://privacyportal-cdn.onetrust.com/dsarwebform/9d08013a-e357-4ab3-a62e-e4b11eb0e644/b847de5c-1ee6-4a3f-bfd9-eb2988280bcb.html,OneTrust,True,False,False,True,False
+Jack in the Box,https://www.jackinthebox.com/privacy#privacy,privacy@jackinthebox.com,https://privacyportal.onetrust.com/webform/f72e5ae6-9e91-47fa-88dc-2bd8c923eb94/a98731fa-583e-4150-a119-fb57432dca55,OneTrust,True,True,False,False,True
+Papa John’s,https://www.papajohns.com/privacy-policy.html,privacy@papajohns.com,https://privacyportal-cdn.onetrust.com/dsarwebform/24528fbe-3e9a-4ba1-b316-39ca27517543/616bdf6f-852c-4b48-b91b-3edbbadbd74f.html,OneTrust,True,False,False,True,False
+Whataburger,https://whataburger.com/home/privacypolicy,,,Email,True,False,False,False,False
+Jimmy John’s,https://www.jimmyjohns.com/privacy-policy/,privacy@inspirebrands.com,https://jimmyjohns.truyo.com/consumer,Truyo,True,False,False,True,False
+Zaxby’s,https://www.zaxbys.com/legal/privacy-policy,privacy@zaxbys.com,https://zaxbys.logicmanager.com/incidents/?t=18&p=1&k=031B4AF5197EC30A926F48CF40E11A7DBC470048A21E4003B7A3C07C5DAB1BAA,LogicManager,TRUE,True,True,True,True
+Five Guys,https://www.fiveguys.com/Privacy-Policy,privacy@fiveguys.com,https://privacyportal.onetrust.com/webform/f5fbc500-6a08-4d16-b254-c0447470bd68/414493e2-5dbd-4831-b923-efd0ca6a4107,OneTrust,True,True,True,True,True
+Raising Canes,https://www.raisingcanes.com/privacy-policy/,,https://privacyportal.onetrust.com/webform/5b573564-ef93-4cc4-9448-fbd6ede4b5e8/c3a96827-3bdd-44a9-b69d-57ed6af6bbd9,OneTrust,TRUE,TRUE,TRUE,TRUE,FALSE
+Carl’s Jr,https://www.carlsjr.com/privacy-policy,privacy@ckr.com,https://privacy.ckr.com/consumer/make_request,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE
+Wingstop,https://www.wingstop.com/privacy,privacy@wingstop.com ,https://privacyportal-eu.onetrust.com/webform/607a2afe-aa1a-4dfd-8b63-a64b4d563981/eb8cb848-4a00-4d70-aa80-9d7bc6b6f8fe,OneTrust,True,False,False,False,False
+Jersey Mike’s,https://www.jerseymikes.com/privacy-policy,privacy@jerseymikes.com,,Email,True,False,False,True,False
+El Pollo Loco,https://www.elpolloloco.com/legal/#privacy,privacy@elpolloloco.com,https://www.elpolloloco.com/legal/ccpa.html,TrustArc,TRUE,FALSE,False,False,False
+Firehouse Subs,https://www.firehousesubs.com/privacy-policy/,privacy@firehousesubs.com,https://submit-irm.trustarc.com/services/validation/972a7776-ef2e-47e6-966f-dc155d18a9d1,TrustArc,True,False,False,False,False
+Blaze Pizza,https://www.blazepizza.com/privacy,privacy@blazepizza.com,https://privacyportal.onetrust.com/webform/a9fd77da-e4ea-480f-9766-7e386d0c293b/8bdc14ec-5e15-4707-9d53-4820d18b7c36,OneTrust,True,False,False,False,False
+Shake Shack,https://shakeshack.com/privacy-policy,privacy@shakeshack.com,https://privacyportal.onetrust.com/webform/b3a9f5b0-b5f6-4102-abbf-d87d74e3e6b9/cac2ba7b-1c93-45d7-99d9-47090e5928f1,OneTrust,True,False,False,False,False
+Baskin-Robbins,https://www.baskinrobbins.com/en/privacy-policy,customerservice@dunkinbrands.com,,Email,TRUE,False,False,True,False
+Yelp,https://terms.yelp.com/privacy/en_us/20220831_en_us/,dataprotection@yelp.com,,Account settings,TRUE,TRUE,TRUE,TRUE,FALSE
+Instacart,https://www.instacart.com/privacy,customerprivacy@instacart.com,,Account settings,TRUE,TRUE,FALSE,FALSE,FALSE
+DoorDash,https://help.doordash.com/legal/document?type=cx-privacy-policy&region=US&locale=en-US,privacy@doordash.com,,Account settings,True,False,False,False,False
+Uber Eats,https://www.uber.com/legal/es/document/?country=united-states&lang=en&name=privacy-notice,,,Account settings,TRUE,FALSE,FALSE,FALSE,FALSE
+Dunkin Donuts,https://www.dunkindonuts.com/en/privacy-policy,customerservice@dunkinbrands.com ,https://www.dunkindonuts.com/en/consumer-rights,Account settings,TRUE,False,False,True,False
+Jamba Juice,https://www.jamba.com/privacy,privacy@jamba.com,https://jamba.truyo.com/consumer/index,Truyo,TRUE,FALSE,FALSE,TRUE,FALSE
+Olive Garden,https://www.olivegarden.com/privacy-policy,privacy@darden.com,https://privacyportal.onetrust.com/webform/ba9aad07-e9b8-4a45-8cfa-96268092be69/d19cf2ee-2646-46a9-a49f-239ec4760dac,OneTrust,TRUE,FALSE,FALSE,TRUE,FALSE
+Krispy Kreme,https://www.krispykreme.com/legal/privacy-policy,accessibility@krispykreme.com ,,Email,TRUE,FALSE,FALSE,FALSE,FALSE
+IHOP,https://www.ihop.com/en/legal/privacy-policy,privacydesk@ihop.com,https://privacyportal.onetrust.com/webform/de9c8170-4f8f-4c2c-bad0-0878e7e40cf0/40940099-6df1-4b17-9e6b-0dfa196c31f8,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE
+Applebees,https://www.applebees.com/en/privacy-policy,privacydesk@applebees.com,https://privacyportal.onetrust.com/webform/de9c8170-4f8f-4c2c-bad0-0878e7e40cf0/40940099-6df1-4b17-9e6b-0dfa196c31f8,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE
+Chillis,https://brinker.com/privacy,privacypolicy@brinker.com,,Email,TRUE,FALSE,FALSE,FALSE,FALSE
