@@ -1,27 +1,27 @@
-Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
-Riot Games,https://www.riotgames.com/en/privacy-notice,dpo@riotgames.com,https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360001299888,Internal form,False,False,False,False,False
-Jagex,https://www.jagex.com/en-GB/terms/privacy,dpo@jagex.com,,Email,True,False,False,False,False
-Tencent,https://www.tencent.com/en-us/privacy-policy.html,dataprotection@tencent.com,,Email,False,False,False,False,False
-Nintendo,https://www.nintendo.com/privacy-policy/,privacypolicy@noa.nintendo.com,https://privacyportal.onetrust.com/webform/50b45312-ab08-436b-adc7-79156d8394f7/e0b5b569-7fb1-43c9-befc-0e789ed712fb,OneTrust,False,False,False,False,False
-Activision Blizzard,https://www.activisionblizzard.com/legal/privacy-policy,privacyrequests@activisionblizzard.com,,Email,True,False,False,False,False
-Electronic Arts,https://www.ea.com/legal/privacy-and-cookie-policy,,https://www.ea.com/legal/privacy-portal,Account settings,True,False,False,False,False
-Epic Games,https://www.epicgames.com/site/en-US/privacypolicy,privacy@support.epicgames.com,,Email,True,False,False,False,False
-Bandai Namco,https://www.bandainamcoent.com/legal/privacy,privacy@bandainamcoent.com,,Email,True,False,False,False,False
-Ubisoft,https://legal.ubi.com/privacypolicy/en-US,,https://www.ubisoft.com/en-us/help/contact?game=50003&platform=29&category=389&hidefields=all&gf=1&af=1,Account settings,True,False,False,False,False
-Niantic,https://nianticlabs.com/privacy?hl=en,privacy@nianticlabs.com,,Email,True,False,False,False,False
-Roblox,https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy-,privacy@roblox.com ,https://www.roblox.com/support,Email,,,,,
-Scopely,https://www.scopely.com/en/legal?id=privacy,privacy@scopely.com,,Email,True,True,True,True,True
-Zynga,https://www.zynga.com/privacy/policy,privacy@zynga.com,https://privacy.zynga.com/portal/#/,Internal form,True,False,False,False,False
-Take-Two Interactive,https://www.take2games.com/privacy/,privacypolicy@take2games.com,https://www.take2games.com/data-request,Internal form,False,False,False,False,False
-Rockstar Games,https://www.rockstargames.com/privacy?country=us,privacypolicy@take2games.com,http://rsg.ms/account,Internal form,True,False,False,False,False
-Gameloft,https://www.gameloft.com/en/privacy-notice,DataProtectionSupport@gameloft.com,https://www.gameloft.com/en/privacy-notice/contact-form/,Internal form,True,False,False,False,False
-Square Enix,https://www.hd.square-enix.com/eng/privacy.html,privacypolicy@square-enix.com,,Post mail,False,False,False,False,False
-Nexon,https://www.nexon.com/main/en/legal/privacy/,na_nx_legal@nexon.com,,Email,False,False,False,False,False
-Jam City,https://www.jamcity.com/privacyandterms/,privacy@jamcity.com,https://support.jamcity.com/gdpr/,Internal form,True,False,False,False,False
-Supercell,https://supercell.com/en/privacy-policy/,legal-requests@supercell.com,,Account settings,True,False,False,False,False
-Rovio,https://www.rovio.com/privacy/,privacy@rovio.com ,,Account settings,,,,,
-Glu Mobile,https://www.ea.com/legal/privacy-and-cookie-policy,,https://www.ea.com/legal/privacy-portal,Account settings,True,False,False,False,False
-Miniclip,https://www.miniclip.com/privacy-policy,dataprotection@miniclip.com,,Email,True,False,False,False,False
-Ghost Story Games,https://www.take2games.com/privacy/,Community@GhostStoryGames.com,https://www.ghoststorygames.com/privacy-data-requests/,Email,False,False,False,False,False
-Private Division,https://www.take2games.com/privacy/,,https://privacyportal-cdn.onetrust.com/dsarwebform/3efb95b4-aed7-4aa8-85d8-488eb074fa8c/696c1409-ef27-4bca-b988-79b966eaeee0.html,OneTrust,False,False,False,False,False
-2K,https://www.take2games.com/privacy,,https://privacyportal.onetrust.com/webform/3efb95b4-aed7-4aa8-85d8-488eb074fa8c/19eefada-ab66-4f0f-86b7-b542d1969d38,OneTrust,False,False,False,False,False
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA,Metrics
+2K,https://www.take2games.com/privacy,,https://privacyportal.onetrust.com/webform/3efb95b4-aed7-4aa8-85d8-488eb074fa8c/19eefada-ab66-4f0f-86b7-b542d1969d38,OneTrust,False,False,False,False,False,
+Activision Blizzard,https://www.activisionblizzard.com/legal/privacy-policy,privacyrequests@activisionblizzard.com,,Email,True,False,False,False,False,https://www.activision.com/legal/ccpa-report
+Bandai Namco,https://www.bandainamcoent.com/legal/privacy,privacy@bandainamcoent.com,,Email,True,False,False,False,False,
+Electronic Arts,https://www.ea.com/legal/privacy-and-cookie-policy,,https://www.ea.com/legal/privacy-portal,Account settings,True,False,False,False,False,
+Epic Games,https://www.epicgames.com/site/en-US/privacypolicy,privacy@support.epicgames.com,,Email,True,False,False,False,False,
+Gameloft,https://www.gameloft.com/en/privacy-notice,DataProtectionSupport@gameloft.com,https://www.gameloft.com/en/privacy-notice/contact-form/,Internal form,True,False,False,False,False,
+Ghost Story Games,https://www.take2games.com/privacy/,Community@GhostStoryGames.com,https://www.ghoststorygames.com/privacy-data-requests/,Email,False,False,False,False,False,
+Glu Mobile,https://www.ea.com/legal/privacy-and-cookie-policy,,https://www.ea.com/legal/privacy-portal,Account settings,True,False,False,False,False,
+Jagex,https://www.jagex.com/en-GB/terms/privacy,dpo@jagex.com,,Email,True,False,False,False,False,
+Jam City,https://www.jamcity.com/privacyandterms/,privacy@jamcity.com,https://support.jamcity.com/gdpr/,Internal form,True,False,False,False,False,
+Miniclip,https://www.miniclip.com/privacy-policy,dataprotection@miniclip.com,,Email,True,False,False,False,False,
+Nexon,https://www.nexon.com/main/en/legal/privacy/,na_nx_legal@nexon.com,,Email,False,False,False,False,False,
+Niantic,https://nianticlabs.com/privacy?hl=en,privacy@nianticlabs.com,,Email,True,False,False,False,False,
+Nintendo,https://www.nintendo.com/privacy-policy/,privacypolicy@noa.nintendo.com,https://privacyportal.onetrust.com/webform/50b45312-ab08-436b-adc7-79156d8394f7/e0b5b569-7fb1-43c9-befc-0e789ed712fb,OneTrust,False,False,False,False,False,
+Private Division,https://www.take2games.com/privacy/,,https://privacyportal-cdn.onetrust.com/dsarwebform/3efb95b4-aed7-4aa8-85d8-488eb074fa8c/696c1409-ef27-4bca-b988-79b966eaeee0.html,OneTrust,False,False,False,False,False,
+Riot Games,https://www.riotgames.com/en/privacy-notice,dpo@riotgames.com,https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360001299888,Internal form,False,False,False,False,False,
+Roblox,https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy-,privacy@roblox.com ,https://www.roblox.com/support,Email,True,False,False,False,False,https://en.help.roblox.com/hc/en-us/articles/4402871541140-CPRA-Privacy-Policy
+Rockstar Games,https://www.rockstargames.com/privacy?country=us,privacypolicy@take2games.com,http://rsg.ms/account,Internal form,True,False,False,False,False,
+Rovio,https://www.rovio.com/privacy/,privacy@rovio.com ,,Account settings,TRUE,False,False,False,False,
+Scopely,https://www.scopely.com/en/legal?id=privacy,privacy@scopely.com,,Email,True,True,True,True,True,
+Square Enix,https://www.hd.square-enix.com/eng/privacy.html,privacypolicy@square-enix.com,,Post mail,False,False,False,False,False,
+Supercell,https://supercell.com/en/privacy-policy/,legal-requests@supercell.com,,Account settings,True,False,False,False,False,
+Take-Two Interactive,https://www.take2games.com/privacy/,privacypolicy@take2games.com,https://www.take2games.com/data-request,Internal form,False,False,False,False,False,
+Tencent,https://www.tencent.com/en-us/privacy-policy.html,dataprotection@tencent.com,,Email,False,False,False,False,False,
+Ubisoft,https://legal.ubi.com/privacypolicy/en-US,,https://www.ubisoft.com/en-us/help/contact?game=50003&platform=29&category=389&hidefields=all&gf=1&af=1,Account settings,True,False,False,False,False,https://legal.ubi.com/privacypolicy/en-US
+Zynga,https://www.zynga.com/privacy/policy,privacy@zynga.com,https://privacy.zynga.com/portal/#/,Internal form,True,False,False,False,False,

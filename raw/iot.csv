@@ -1,13 +1,13 @@
-Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
-WEMO,https://www.wemo.com/privacy-policy/,,https://belkin.co1.qualtrics.com/jfe/form/SV_1ApjA4MeAIyW7Ix,Qualtrics,TRUE,FALSE,FALSE,FALSE,FALSE
-Phillips Hue,https://www.philips-hue.com/en-us/support/legal/privacy-policy,,https://www.signify.com/global/legal/privacy/privacy-request,OneTrust,True,False,False,False,False
-August,https://august.com/pages/privacy-policy,privacy@august.com,,Email,True,False,False,False,False
-Blink Smart Security,https://blinkforhome.com/privacy-policy,support@blinkforhome.com,https://support.blinkforhome.com/,Internal form,False,False,False,False,False
-Arlo,https://www.arlo.com/en-us/privacy-policy.html,privacy@arlo.com,https://www.arlo.com/en-us/us-privacy-policy-form.html,Internal form,True,False,False,False,False
-Ecobee ,https://www.ecobee.com/en-us/privacy-policy/,privacy@ecobee.com,https://www.ecobee.com/en-us/data-request/,SalesForce,True,False,False,False,False
-Chamberlain,https://www.chamberlain.com/privacy-notice,privacy@chamberlain.com,https://privacyportal.onetrust.com/webform/b2189c69-d2d2-4d93-a260-462bc53b6c25/179bcfaa-8436-4f1f-a98b-dbcfe70e3004,OneTrust,True,True,True,True,True
-Roborock,https://us.roborock.com/pages/privacy-policy,privacy@roborock.com,,Email,True,False,False,False,False
-Bowers & Wilkins,https://www.bowerswilkins.com/en-us/privacy-policy,gdpr@bowerswilkins.com,,Email,TRUE,FALSE,FALSE,FALSE,FALSE
-Wyze,https://www.wyze.com/policies/privacy-policy,privacy@wyze.com,,Email,True,True,True,True,True
-Eufy,https://us.eufy.com/policies/privacy-policy?ref=footer,support@eufylife.com,,Email,True,False,False,False,False
-SimpliSafe,https://simplisafe.com/privacy-policy,,https://simplisafe.com/access-delete-info,OneTrust,True,True,True,True,True
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA,Metrics
+Arlo,https://www.arlo.com/en-us/privacy-policy.html,privacy@arlo.com,https://www.arlo.com/en-us/us-privacy-policy-form.html,Internal form,True,False,False,False,False,
+August,https://august.com/pages/privacy-policy,privacy@august.com,,Email,True,False,False,False,False,
+Blink Smart Security,https://blinkforhome.com/privacy-policy,support@blinkforhome.com,https://support.blinkforhome.com/,Internal form,False,False,False,False,False,
+Bowers & Wilkins,https://www.bowerswilkins.com/en-us/privacy-policy,gdpr@bowerswilkins.com,,Email,TRUE,FALSE,FALSE,FALSE,FALSE,
+Chamberlain,https://www.chamberlain.com/privacy-notice,privacy@chamberlain.com,https://privacyportal.onetrust.com/webform/b2189c69-d2d2-4d93-a260-462bc53b6c25/179bcfaa-8436-4f1f-a98b-dbcfe70e3004,OneTrust,True,True,True,True,True,
+Ecobee ,https://www.ecobee.com/en-us/privacy-policy/,privacy@ecobee.com,https://www.ecobee.com/en-us/data-request/,SalesForce,True,False,False,False,False,
+Eufy,https://us.eufy.com/policies/privacy-policy?ref=footer,support@eufylife.com,,Email,True,False,False,False,False,
+Phillips Hue,https://www.philips-hue.com/en-us/support/legal/privacy-policy,,https://www.signify.com/global/legal/privacy/privacy-request,OneTrust,True,False,False,False,False,
+Roborock,https://us.roborock.com/pages/privacy-policy,privacy@roborock.com,,Email,True,False,False,False,False,
+SimpliSafe,https://simplisafe.com/privacy-policy,,https://simplisafe.com/access-delete-info,OneTrust,True,True,True,True,True,
+WEMO,https://www.wemo.com/privacy-policy/,,https://belkin.co1.qualtrics.com/jfe/form/SV_1ApjA4MeAIyW7Ix,Qualtrics,TRUE,FALSE,FALSE,FALSE,FALSE,
+Wyze,https://www.wyze.com/policies/privacy-policy,privacy@wyze.com,,Email,True,True,True,True,True,

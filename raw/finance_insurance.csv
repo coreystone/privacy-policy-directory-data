@@ -1,0 +1,32 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA,Metrics
+Allstate,https://www.allstate.com/privacy-center/aic-privacy-statement,customerprivacy@allstate.com,https://allstate.consumerprivacyinfo.com/,OneTrust,TRUE,FALSE,FALSE,TRUE,FALSE,https://www.allstate.com/privacy-center/consumer-requests-metrics
+American Express,https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/#privacy-statement,,https://www.americanexpress.com/us/privacy-center/?inav=footer_privacy_statement,Internal form,True,False,False,False,False,
+Bank of America,https://www.bankofamerica.com/security-center/privacy-overview/,,https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1,Internal form,True,False,False,False,False,https://www.bankofamerica.com/ccpa-metrics
+Barclays,https://cards.barclaycardus.com/banking/privacy-policy/,,https://www.barclaycardus.com/servicing/consumerPrivacyRequest#/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,https://cards.barclaycardus.com/content/dam/bcuspublic/privacy-policy/notices/CCPA%20Annual%20Metrics_2022-01-13.pdf
+Capital One,https://www.capitalone.com/privacy/,,https://mydata.capitalone.com/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,https://mydata.capitalone.com/transparency-report
+Cash App,https://cash.app/legal/us/en-us/privacy,,https://cash.app/support,Account settings,True,False,False,False,False,
+Chase,https://www.chase.com/digital/resources/privacy-security/privacy/consumer-privacy-notice,Privacy.Info@JPMChase.com ,,Email,True,False,False,False,False,
+Chime Bank,https://www.chime.com/policies/chime/privacy-policy/,support@chime.com,https://privacyportal.onetrust.com/webform/5937394c-877a-4878-9ea1-329cdfe21a59/d98ad59c-8cb5-4ff2-82db-543e8d05103b,OneTrust,True,False,False,True,False,
+Citi Mobile,https://online.citi.com/US/JRS/portal/template.do?ID=Privacy,,,Phone,True,False,False,False,False,
+Clover,https://www.clover.com/privacy-policy,dpo@fiserv.com,https://privacyportal.onetrust.com/webform/ea43d9bb-b0c9-4a9e-abdc-ef43b9b27820/7b1d1e3d-fa16-470a-a0f9-c9dc74868f6d,OneTrust,TRUE,FALSE,FALSE,TRUE,FALSE,
+Credit Karma,https://www.intuit.com/privacy/statement/,requests@creditkarma.com,https://support.creditkarma.com/s/newcase,Internal form,True,True,True,True,False,
+Experian,https://www.experian.com/privacy/,,https://privacy.a.apps.experian.com/ccpa/,Internal form,True,False,False,False,False,
+Fannie Mae,https://www.fanniemae.com/about-us/corporate-governance/online-privacy-notice,,https://fmethics.metricstream.com/webline/,Internal form,TRUE,TRUE,TRUE,TRUE,TRUE,https://www.fanniemae.com/media/40331/display
+Freddie Mac,https://www.freddiemac.com/terms/privacy,privacy_mailbox@freddiemac.com,https://privacyportal-cdn.onetrust.com/dsarwebform/94b5e41a-aba0-4e51-ba48-efa19ce560a1/b80edba8-62e5-465e-8757-f725da6ee5b2.html,OneTrust,TRUE,FALSE,FALSE,TRUE,FALSE,https://www.freddiemac.com/terms/docs/California_Consumer_Request_Metrics.pdf
+Liberty Mutual,https://www.libertymutualgroup.com/general/about-lm/corporate-information/website-and-mobile-data-privacy,privacy@libertymutual.com,https://privacyportal.onetrust.com/hosted-webform/consent/50577d86-8d39-4310-9583-33e6d3da8e17/9b108b70-4ef6-4d93-b7ec-60e41f03b292,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.libertymutualgroup.com/documents/2021-metrics-individual-requests-access-and-deletion-updated-6.20.22.pdf
+M&T Bank,https://www3.mtb.com/privacy,ConsumerRequest@wilmingtontrust.com,,Email,TRUE,FALSE,FALSE,FALSE,FALSE,https://www3.mtb.com/homepage/explore-the-m-and-t-bank-help-center/bank-policies/california-consumer-privacy-notice
+Paysafecard,https://www.paysafecard.com/en/privacy-notice/,,https://www.paysafe.com/en/personal-data-requests/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,
+Plaid,https://plaid.com/legal/,privacy@plaid.com,https://plaid.com/legal/data-protection-request-form/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,
+Privacy.com,https://privacy.com/privacy-policy,hello@privacy.com ,,Email,TRUE,FALSE,FALSE,FALSE,FALSE,
+Progressive Insurance,https://www.progressive.com/privacy/,,https://privacyportal.onetrust.com/webform/98369889-3df1-4c62-87e3-ec55d5e7571d/8cd82167-9c5d-439d-88d4-2e88b41036d3,OneTrust,True,True,True,True,True,
+Robinhood,https://robinhood.com/l/privacy,privacy@robinhood.com,,Account settings,True,False,False,False,False,
+Schwab,https://www.schwab.com/legal/privacy,,,Phone,True,False,False,False,False,
+State Farm,https://www.statefarm.com/customer-care/privacy-security/privacy,privacy@statefarm.com,https://apps.statefarm.com/CustomerForms/ConsumerDataAccessRequestForm.htm,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.statefarm.com/content/dam/sf-library/en-us/secure/legacy/pdf/V-ccpa-metrics.pdf
+Stripe,https://stripe.com/privacy,privacy@stripe.com,https://support.stripe.com/contact/email?question=other&topic=other&subject=Privacy+Request,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,
+Synchrony,https://www.synchrony.com/privacy-policy.html?intcmp=home_footer_synchrony_int,privacyoffice@syf.com,https://www.synchronycredit.com/cpra/,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.synchrony.com/CCPA%20Metrics%202021%20ENG.pdf
+Truist,https://www.truist.com/privacy,,https://privacycenter.truist.com/login,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.truist.com/content/dam/truist-bank/us/en/documents/disclosures/ccpa-2021-disclosure.pdf
+Venmo,https://venmo.com/legal/start/,privacy@venmo.com,https://help.venmo.com/hc/en-us/requests/new?ticket_form_id=624807,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE,
+Visa,https://usa.visa.com/legal/privacy-policy.html,privacy@visa.com,https://privacyportal.onetrust.com/webform/dd0d9755-b749-45c9-8c89-f768637132db/2820c4d2-137a-425e-bf35-ffb2bab5611d,OneTrust,TRUE,FALSE,FALSE,FALSE,FALSE,https://usa.visa.com/legal/global-privacy-notice/ca-privacy-rights.html#Additional_Disclosures_for_Large_Businesses-f42b
+Webull,https://www.webull.com/protocol/webull_financial_privacy_policy,privacy-us@webull.com,,Email,True,False,False,False,False,
+Wells Fargo,https://www.wellsfargo.com/privacy-security/,privacycenter@wellsfargo.com,https://privacycenter.wellsfargo.com/pcc/portal/enter,Internal form,True,False,False,False,False,
+Zelle,https://www.zellepay.com/legal/website-privacy-notice,privacyoffice@earlywarning.com,,Email,True,False,False,False,False,

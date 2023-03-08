@@ -1,0 +1,20 @@
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA,Metrics
+7-Eleven,https://www.7-eleven.com/consumer-privacy-notice,privacypolicy@7-11.com,https://7dataassure-forms.7-eleven.com/email,Internal form,True,False,False,False,False,
+BMW,https://my.bmwusa.com/privacypolicy,bmwprivacy@bmwusa.com,,Email,True,True,True,True,True,
+Chevron,https://www.chevron.com/privacy,,https://privacyportal-cdn.onetrust.com/dsarwebform/c6903940-f079-4218-9ad7-47c7ff822500/12ee0246-47a0-4a19-9fe8-3a884c925d0d.html,OneTrust,True,False,False,False,False,
+Exxon Mobil,https://corporate.exxonmobil.com/Global-legal-pages/privacy-policy,data.privacy.office@exxonmobil.com,https://privacyportal.onetrust.com/webform/556d380f-9307-4f7c-8b90-5eaa69099b42/268a33c4-8f55-41f5-bc5d-356ec7c3444f,OneTrust,True,False,False,False,False,
+Ferrari ,https://www.ferrari.com/en-EN/privacy-policy,,https://privacyportal-de.onetrust.com/webform/98d779e0-913c-4c73-b9fe-4e0e2e29c727/8311287a-be4e-4748-86c2-e12d7ccdf2db,OneTrust,FALSE,FALSE,FALSE,FALSE,FALSE,
+Ford,https://www.ford.com/help/privacy/#USprivacypolicy,calprivy@ford.com,https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d,OneTrust,True,False,False,True,False,https://www.ford.com/help/privacy/#caPrivacy
+General Motors,https://www.gm.com/privacy-statement,privacy@gm.com,https://www.gm.com/consumer-privacy,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE,
+Honda,https://www.honda.com/privacy/privacy-notice,,https://crrs.secure.force.com/service/CCPA_Request_W2C,SalesForce,True,False,False,True,False,https://www.honda.com/privacy/pdf/Honda_CCPA_01192022.pdf
+Hyundai ,https://www.hyundaiusa.com/us/en/privacy-policy/,personalprivacyrequest@hmausa.com,https://www.hyundaiusa.com/us/en/privacy-policy/,Internal form,TRUE,FALSE,FALSE,TRUE,FALSE,
+Kia,https://www.kia.com/us/en/privacy,,https://ksupport.kiausa.com/ConsumerAffairs/PrivacyManagement,Internal form,True,True,True,True,True,
+Lucid Motors ,https://www.lucidmotors.com/legal#privacy-policy,privacy@lucidmotors.com,,Email,TRUE,FALSE,FALSE,FALSE,FALSE,
+Mercedes-Benz ,https://www.mercedes-benz.com/en/providerprivacy-statement/privacy-statement/,dialog@mercedes-benz.com,,Email,TRUE,FALSE,FALSE,FALSE,FALSE,
+Nissan,https://www.nissanusa.com/privacy.html,privacy@nissan-usa.com,https://privacyportal.onetrust.com/webform/00db3d80-61f2-406b-9665-493b342a269d/b28edb8c-8f95-418a-8697-ad870da401ae,OneTrust,True,True,True,True,True,
+Polestar,https://www.polestar.com/us/legal/privacy/privacy-policy/,dpo@polestar.com ,https://www.polestar.com/us/data-subject-right-request,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,
+Porsche ,https://www.porsche.com/usa/privacy-policy/,privacy@porsche.us,https://www.porsche.com/usa/privacy-policy/contact/,Internal form,TRUE,TRUE,TRUE,TRUE,TRUE,
+Shell,https://www.shell.us/privacy/b2c-notice.html,shellcustomercare@shell.com,,Email,True,False,False,False,False,
+SoCal Gas,https://www.socalgas.com/privacy-notice,privacy@socalgas.com,https://www.socalgas.com/california-consumer-privacy-act-request,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.socalgas.com/california-consumer-privacy-act-policy
+Tesla,https://www.tesla.com/legal/privacy,privacy@tesla.com,https://www.tesla.com/support/contact,,TRUE,FALSE,FALSE,FALSE,FALSE,
+Toyota,https://www.toyota.com/support/privacy-rights/,,https://privacy.toyota.com/,OneTrust,True,False,False,False,False,

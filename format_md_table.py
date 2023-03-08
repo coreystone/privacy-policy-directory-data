@@ -5,9 +5,10 @@ def emojify_links(df) -> pd.DataFrame:
     Converts a cell to a linked emoji corresponding to the column type, ie, "emojifying" it
     """
 
-    emoji_dict = {"Contact": "[:mail:]",
+    emoji_dict = {"Contact": "[:envelope:]",
                   "RequestForm": "[:memo:]",
-                  "PrivacyPolicy": "[:blue_book:]"}
+                  "PrivacyPolicy": "[:blue_book:]",
+                  "Metrics": "[:bar_chart:]"}
 
     for k in emoji_dict.keys():
         i = 0
@@ -59,7 +60,8 @@ def rename_columns(df) -> pd.DataFrame:
     # Credit to user @lexual on Stack Overflow: https://stackoverflow.com/a/11354850
     return df.rename(columns={'PrivacyPolicy': 'Privacy Policy',
                               'RequestForm': 'Request Form',
-                              'RequestType': 'Request Type'
+                              'RequestType': 'Request Type',
+                              'Metrics': 'CCPA Metrics'
                               })
 
 
@@ -72,8 +74,8 @@ def convert_bools(df) -> pd.DataFrame:
 
 
 if __name__ == '__main__':
-    input_file_path = 'master_test.csv'
-    output_file_path = 'master_test_md.csv'
+    input_file_path = 'input.csv'
+    output_file_path = 'output_md.csv'
 
     print("Beginning program.")
 

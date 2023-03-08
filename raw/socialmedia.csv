@@ -1,20 +1,18 @@
-Company,PrivacyPolicy,Contact,WebForm,WebFormVendor,CCPA,CPA,CTDPA,CDPA,UCPA
-Twitter,https://twitter.com/en/privacy,,,,False,False,False,False,False
-Instagram,https://about.instagram.com/micro_site/url/?click_creative_path[0]=click_external-link&ums_creative_detail=footer&click_from_context_menu=true&country=US&destination=https%3A%2F%2Fwww.instagram.com%2Flegal%2Fprivacy%2F&event_type=click&last_nav_impression_id=16xzmO1ovbLWnzC8u&max_percent_page_viewed=100&max_viewport_height_px=1163&max_viewport_width_px=1137&orig_http_referrer=https%3A%2F%2Fduckduckgo.com%2F&orig_request_uri=https%3A%2F%2Fabout.instagram.com%2Fsafety&region=noam&scrolled=true&session_id=08z2YtlqUkQFtecGo&site=instagram_about&extra_data[creative_detail]=footer,,,,False,False,False,False,False
-Reddit,https://www.reddit.com/policies/privacy-policy,"{'redditdatarequests@reddit.com', '9f057df6115a4bb488c08ea12a835e6e@o418887.ingest.sentry.io', '0fe02982823646ecaf900125bd387d5f@sentry.reddit.ue1.snooguts.net', 'eurepresentative@reddit.com'}",https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001370251,Zendesk,True,False,False,False,False
-Be Real,https://bere.al/en/privacy,,,,True,False,False,True,False
-TikTok,https://www.tiktok.com/legal/page/us/privacy-policy/en,,,,True,False,False,False,False
-Pinterest,https://policy.pinterest.com/en/privacy-policy,,,,True,False,False,True,False
-Tumblr,https://www.tumblr.com/privacy/en,"{'1@2x.png', 'ccpa@tumblr.com'}","{'https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you', 'https://tumblr.zendesk.com/hc/en-us/articles/360035272334-Tumblr-ads-you', 'https://tumblr.zendesk.com/hc/en-us/articles/360041012973', 'https://tumblr.zendesk.com/hc/articles/115011611747-Privacy-options'}",Zendesk,True,True,True,True,True
-WhatsApp,https://www.whatsapp.com/privacy,,,,False,False,False,False,False
-Telegram,https://telegram.org/privacy,,,,False,False,False,False,False
-Facebook,https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0,,,,False,False,False,False,False
-Messenger,https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0,,,,False,False,False,False,False
-Life360,https://support.life360.com/hc/en-us/articles/360043228154-LIFE360-Privacy-Cookie-Policy,,,,,,,,
-GroupMe,https://privacy.microsoft.com/en-US/privacystatement,,,,True,False,False,False,False
-Signal,https://signal.org/legal/,press@signal.org,,,True,False,False,False,False
-Snapchat,https://www.snap.com/en-US/privacy/privacy-policy,,,,True,False,False,False,False
-Tinder,https://policies.tinder.com/privacy/,,,,True,False,False,True,False
-Bumble,https://bumble.com/privacy,feedback@team.bumble.com,,,True,False,False,False,False
-Hinge,https://hinge.co/privacy/,,"{'https://hingeapp.zendesk.com/hc/en-us/articles/360010956733-Automated-decision-making-and-Profiling-at-Hinge', 'https://hingeapp.zendesk.com/hc/en-us/articles/10303221435539-What-is-Selfie-Verification-', 'https://hingeapp.zendesk.com/hc/en-us?pid=hinge.co&c=hinge.co%20website', 'https://hingeapp.zendesk.com/hc/en-us', 'https://hingeapp.zendesk.com/hc/en-us/articles/360007194774-Safe-Dating-Advice/?pid=hinge.co&c=hinge.co%20website'}",Zendesk,True,False,False,True,False
-Grindr,https://www.grindr.com/privacy-policy/?lang=en-US,,,,False,False,False,False,False
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA,Metrics
+Be Real,https://bere.al/en/privacy,contact@bere.al,,Email,True,False,False,True,False,
+Bumble,https://bumble.com/privacy,DPO@team.bumble.com,https://bumble.com/help-search#contact-us,Internal form,True,False,False,False,False,
+Facebook,https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0,,https://www.facebook.com/help/contact/459418078730560,Account settings,False,False,False,False,False,https://www.facebook.com/legal/policy/ccpa/transparencyreport
+Grindr,https://www.grindr.com/privacy-policy/?lang=en-US,privacy@grindr.com,https://help.grindr.com/hc/en-us/requests/new?ticket_form_id=360006692913,Account settings,False,False,False,False,False,https://www.grindr.com/privacy-policy/privacy-rights-requests/?lang=en-US
+GroupMe,https://privacy.microsoft.com/en-US/privacystatement,,https://account.microsoft.com/privacy,Account settings,True,False,False,False,False,https://privacy.microsoft.com/en-us/ccpa
+Hinge,https://hinge.co/privacy/,hello@hinge.co,https://hingeapp.zendesk.com/hc/en-us/categories/360001641614-Safety-Security-and-Privacy,Account settings,True,False,False,True,False,
+Instagram,https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect,,https://privacycenter.instagram.com/policy/?section_id=6-HowCanYouManage,Account settings,False,False,False,False,False,https://www.facebook.com/legal/policy/ccpa/transparencyreport
+Life360,https://support.life360.com/hc/en-us/articles/360043228154,privacy@life360.com,,Email,TRUE,False,False,False,False,
+Messenger,https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0,,,Account settings,False,False,False,False,False,https://www.facebook.com/legal/policy/ccpa/transparencyreport
+Pinterest,https://policy.pinterest.com/en/privacy-policy,,https://help.pinterest.com/en/contact,Account settings,True,False,False,True,False,
+Reddit,https://www.reddit.com/policies/privacy-policy,redditdatarequests@reddit.com,https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001370251,Zendesk,True,False,False,False,False,https://www.redditinc.com/policies/transparency-report-2021-2#text-content8
+Snapchat,https://www.snap.com/en-US/privacy/privacy-policy,,https://accounts.snapchat.com/accounts/downloadmydata,Account settings,True,False,False,False,False,https://snap.com/en-US/privacy/us-state-privacy-notice
+TikTok,https://www.tiktok.com/legal/page/us/privacy-policy/en,,,Account settings,True,False,False,False,False,https://www.tiktok.com/transparency/en-us/california-privacy-rights-2021/
+Tinder,https://policies.tinder.com/privacy/,,https://www.help.tinder.com/hc/en-us/requests/new,Internal form,True,False,False,True,False,
+Tumblr,https://www.tumblr.com/privacy/en,ccpa@tumblr.com,https://www.tumblr.com/support,Account settings,True,True,True,True,True,https://transparency.automattic.com/tumblr/privacy-reports/
+Twitter,https://twitter.com/en/privacy,,,Account settings,False,False,False,False,False,
+WhatsApp,https://www.whatsapp.com/privacy,,,Account settings,False,False,False,False,False,https://www.facebook.com/legal/policy/ccpa/transparencyreport

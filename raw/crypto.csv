@@ -1,10 +1,10 @@
-Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA
-Kraken,https://www.kraken.com/legal/privacy,support@kraken.com ,,Email,FALSE,FALSE,FALSE,FALSE,FALSE
-Coinbase,https://www.coinbase.com/legal/privacy,dpo@coinbase.com ,https://help.coinbase.com/en/contact-us?product=coinbase,Account settings,TRUE,FALSE,FALSE,FALSE,FALSE
-Gemini,https://www.gemini.com/legal/privacy-policy,privacy@gemini.com,,Account settings,True,False,False,False,False
-Crypto.com,https://crypto.com/privacy/privacy_us.pdf,dpo@crypto.com,,Email,True,False,False,False,False
-Exodus,https://www.exodus.com/legal/exodus-pp-20230210-v11.pdf,data@exodus.io,,Email,False,False,False,False,False
-Ledger,https://www.ledger.com/privacy-policy,,https://privacy-request.ledger.com/,Internal form,False,False,False,False,False
-MetaMask,https://consensys.net/privacy-policy/,legal@consensys.net ,,,True,False,False,False,False
-NiceHash,https://www.nicehash.com/legal-privacy/privacy,dpo@nicehash.com,,Email,False,False,False,False,False
-OpenSea,https://opensea.io/privacy,,https://support.opensea.io/hc/en-us/requests/new,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE
+Company,PrivacyPolicy,Contact,RequestForm,RequestType,CCPA,CPA,CTDPA,CDPA,UCPA,Metrics
+Coinbase,https://www.coinbase.com/legal/privacy,dpo@coinbase.com ,https://help.coinbase.com/en/contact-us?product=coinbase,Account settings,TRUE,FALSE,FALSE,FALSE,FALSE,
+Crypto.com,https://crypto.com/privacy/privacy_us.pdf,dpo@crypto.com,,Email,True,False,False,False,False,
+Exodus,https://www.exodus.com/legal/exodus-pp-20230210-v11.pdf,data@exodus.io,,Email,False,False,False,False,False,
+Gemini,https://www.gemini.com/legal/privacy-policy,privacy@gemini.com,,Account settings,True,False,False,False,False,
+Kraken,https://www.kraken.com/legal/privacy,support@kraken.com ,,Email,FALSE,FALSE,FALSE,FALSE,FALSE,
+Ledger,https://www.ledger.com/privacy-policy,,https://privacy-request.ledger.com/,Internal form,False,False,False,False,False,
+MetaMask,https://consensys.net/privacy-policy/,legal@consensys.net ,,,True,False,False,False,False,
+NiceHash,https://www.nicehash.com/legal-privacy/privacy,dpo@nicehash.com,,Email,False,False,False,False,False,
+OpenSea,https://opensea.io/privacy,,https://support.opensea.io/hc/en-us/requests/new,Internal form,TRUE,FALSE,FALSE,FALSE,FALSE,
