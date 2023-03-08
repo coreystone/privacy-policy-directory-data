@@ -4,7 +4,7 @@
 This project is built on top of publicly available information that is provided by companies and their privacy policies, support articles, or other sources of information found on their websites. All of the data about these companies is openly available to the public. 
 
 ## 🔍 About
-**Privacy Policy Directory** is a aggregation of various types of companies that serves to educate the public about how they can exercise their privacy rights with any of these companies that they might be a user of. This project was heavily inspired by and modeled on [2fa.directory](https://2fa.directory/) whose mission is "to be an independent source of information on which services support MFA/2FA and help consumers demand MFA/2FA on the services that currently don’t." I've always admired the project's utility, how it presents its data, and its merit as a public service. I noticed an equivalent was missing in the privacy space and what you see here is the humble beginning. 
+**Privacy Policy Directory** is an aggregation of various types of companies that serves to educate the public about how they can exercise their privacy rights with any of these companies that they might be a user of. This project was heavily inspired by and modeled on [2fa.directory](https://2fa.directory/) whose mission is "to be an independent source of information on which services support MFA/2FA and help consumers demand MFA/2FA on the services that currently don’t." I've always admired the project's utility, how it presents its data, and its merit as a public service. I noticed an equivalent was missing in the privacy space and what you see here is the humble beginning. 
 
 Trying to exercise your privacy rights (such as to access or delete your data) can unfortunately be a pain solely because you have to become a detective to find an email address or obfuscated link hidden away in some corner of a company's website. I've noticed this pattern too often in my experience. This project serves to save data subjects that headache and time sink of finding *where* to submit a request rather than the trivial act of submitting it. When people feel more confident in exercising their privacy rights, people win and privacy prevails.
 
@@ -18,10 +18,6 @@ Trying to exercise your privacy rights (such as to access or delete your data) c
 * :balance_scale: **Privacy frameworks** (CCPA, CPA, CTDPA, VCDPA, UCPA): indicates whether a privacy policy explicitly mentions a respective states's privacy law or that citizens of respective state have special rights
 * :bar_chart: **CCPA Metrics**: a link to the company's [CCPA metrics report](https://www.onetrust.com/blog/ccpa-metric-reporting-requirement/) if applicable, per  Section 999.317(g) of the CCPA
 
-
-
-
-Initial commit.
  
 # Directory
 <details>
