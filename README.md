@@ -1,7 +1,7 @@
 # Privacy Policy Directory
 
 ## ⚠️ DISCLAIMER
-This project is built on top of publicly available information that is provided by companies and their privacy policies, support articles, or other sources of information found on their websites. All of the data about these companies is openly available to the public. 
+This project is built on top of publicly available information that is provided by companies and their privacy policies, support articles, or other sources of information found on their websites. However, there is no guarantee that all of the information presented in this project is correct. This project is intended to be a reference point and not a definitive or absolute source of truth. Companies update their privacy policies and change their processes and workflows for data requests constantly, so data presented here can change or become invalid at any time.
 
 ## 🔍 About
 **Privacy Policy Directory** is an aggregation of various types of companies that serves to educate the public about how they can exercise their privacy rights with any of these companies that they might be a user of. This project was heavily inspired by and modeled on [2fa.directory](https://2fa.directory/) whose mission is "to be an independent source of information on which services support MFA/2FA and help consumers demand MFA/2FA on the services that currently don’t." I've always admired the project's utility, how it presents its data, and its merit as a public service. I noticed an equivalent was missing in the privacy space and what you see here is the humble beginning. 
