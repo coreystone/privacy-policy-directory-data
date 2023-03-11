@@ -5,7 +5,7 @@ def emojify_links(df) -> pd.DataFrame:
     Converts a cell to a linked emoji corresponding to the column type, ie, "emojifying" it
     """
 
-    emoji_dict = {"Contact": "[:envelope:]",
+    emoji_dict = {"Contact": "[:email:]",
                   "RequestForm": "[:memo:]",
                   "PrivacyPolicy": "[:blue_book:]",
                   "Metrics": "[:bar_chart:]"}
@@ -14,8 +14,13 @@ def emojify_links(df) -> pd.DataFrame:
         i = 0
         for r in df[k]:
             if type(r) == str:
-                r = "{emoji}(".format(emoji=emoji_dict[k]) + r.strip() + ")"
-                df.at[i, k] = r
+                print(k, type(k), emoji_dict[k])
+                if k == "Contact":
+                    r = "{emoji}(mailto:".format(emoji=emoji_dict[k]) + r.strip() + ")"
+                    df.at[i, k] = r
+                else:
+                    r = "{emoji}(".format(emoji=emoji_dict[k]) + r.strip() + ")"
+                    df.at[i, k] = r
             else:
                 df.at[i, k] = ""
             i += 1
